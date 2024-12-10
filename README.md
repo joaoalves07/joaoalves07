@@ -2,8 +2,8 @@
 
 - 📚 Estudante de Ciência da Computação
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalves07&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalves07)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalves07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalves07&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
